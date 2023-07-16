@@ -6,7 +6,7 @@
 
 ## Description
 
-Ce proggramme utilise une classification non supervisé avec K-means sur un corpus de compétences issus de 30 métiers du secteur de l'informatique afin de tenter de prédire un groupe de métiers correspondant pour une nouvelle liste de compétences.
+Ce programme utilise une classification non supervisé avec K-means sur un corpus de compétences issus de 30 métiers du secteur de l'informatique afin de tenter de prédire un groupe de métiers correspondant pour une nouvelle liste de compétences.
 
 ## Auteur
 
